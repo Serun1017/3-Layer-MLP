@@ -6,6 +6,8 @@
 
 세종대학교 소프트웨어학과 19011625 허진수
 
+[![Video Label](https://img.youtube.com/vi/86hd3KZ0VbA/0.jpg)](https://www.youtube.com/watch?v=86hd3KZ0VbA)
+
 ---
 ## MLP Description
 ### MNIST dataset
